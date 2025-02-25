@@ -22,7 +22,7 @@ Users can securely download and decrypt files using their private keys.
 ----------------------------------------------------
 🔧 **Prerequisites**
 
-1. Python 3.x  
+1. Python 3.14   
 2. AWS IAM credentials (Access Key & Secret Key)  
 3. Dependencies from requirements.txt
 4. Write your own access key, secret key, and bucket name from AWS console where you created S3 bucket in keys.env file. 
